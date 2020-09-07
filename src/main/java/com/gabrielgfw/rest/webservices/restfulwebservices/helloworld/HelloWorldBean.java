@@ -1,4 +1,4 @@
-package com.gabrielgfw.rest.webservices.restfulwebservices;
+package com.gabrielgfw.rest.webservices.restfulwebservices.helloworld;
 
 public class HelloWorldBean {
 
